@@ -1,3 +1,3 @@
-# Electricity Prices
+# AEMO Electricity Demand & Prices
 
-AEMO wholesale electricity settlement prices by states in 2020.
+AEMO wholesale electricity demand and settlement prices by states in 2020.
